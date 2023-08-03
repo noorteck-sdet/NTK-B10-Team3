@@ -1,13 +1,10 @@
 package demo;
 
 public class DemoDay3 {
-	public static void main(String[] args) {
-		System.out.println("Yasir");
+
 //importance of following stash process && communicating... :)
-
-		System.out.println("Demo..");
-
-		System.out.println("Joan...");
+	public static void main(String[] args) {
+		System.out.println("Rusol");
+		System.out.println("Hi from Rusol");
 	}
-
 }
