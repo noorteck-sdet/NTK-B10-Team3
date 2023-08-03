@@ -8,8 +8,11 @@ public class DemoDay3 {
 		System.out.println("Demo..");
 
 		System.out.println("Joan...");
-		
+
 		System.out.println("Applying changes in local workspace...");
+		
+		System.out.println("First changes being made...");
+		
 	}
 
 }
