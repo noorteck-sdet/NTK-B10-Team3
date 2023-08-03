@@ -13,6 +13,8 @@ public class DemoDay3 {
 		
 		System.out.println("First changes being made...");
 		
+		
+		System.out.println("Sue's first attempt");
 	}
 
 }
