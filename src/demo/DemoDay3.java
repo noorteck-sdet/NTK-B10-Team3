@@ -1,9 +1,13 @@
 package demo;
 
 public class DemoDay3 {
-	public static void main(String[] args) {
-		System.out.println("Yasir");
+
 //importance of following stash process && communicating... :)
+
+	public static void main(String[] args) {
+		System.out.println("Rusol");
+		
+
 
 		System.out.println("Demo..");
 
@@ -16,7 +20,9 @@ public class DemoDay3 {
 		
 		System.out.println("Sue's first attempt");
 		
-		System.out.println("Conflict created");
-	}
 
+
+		System.out.println("Teresa applied changes");
+
+	}
 }
