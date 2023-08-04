@@ -19,5 +19,7 @@ public class DemoDay3 {
 		
 		
 		System.out.println("Sue's first attempt");
+		
+		System.out.println("Teresa applied changes");
 	}
 }
